@@ -34,39 +34,851 @@
                     "children": [
                         {
                             "name": "AWS Management Plane",
-                            "size": 3534
+                            "size": 700
                         },
                         {
                             "name": "Satellite",
-                            "size": 3534
+                            "size": 700
                         },
                         {
                             "name": "Datadog",
-                            "size": 3534
+                            "size": 700
                         },
                         {
                             "name": "Splunk",
-                            "size": 3534
+                            "size": 700
                         },
                         {
                             "name": "SolarWinds",
-                            "size": 3534
+                            "size": 700
                         },
                         {
                             "name": "New Relic",
-                            "size": 3534
+                            "size": 700
                         },
                         {
                             "name": "Turbonomic SaaS",
-                            "size": 3534
+                            "size": 700
                         },
                         {
                             "name": "AWS Org Cloudtrail",
-                            "size": 3534
+                            "size": 700
                         },
                         {
                             "name": "Enterprise SCCM",
-                            "size": 5416
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Active Directory",
+                    "children": [
+                        {
+                            "name": "ASUAD Forest",
+                            "size": 700
+                        },
+                        {
+                            "name": "WINEDS Forest",
+                            "size": 700
+                        },
+                        {
+                            "name": "ASUFAB Forest",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Orchestration",
+                    "children": [
+                        {
+                            "name": "Jenkins",
+                            "size": 700
+                        },
+                        {
+                            "name": "Spinnaker",
+                            "size": 700
+                        },
+                        {
+                            "name": "Terraform",
+                            "size": 700
+                        },
+                        {
+                            "name": "Ansible",
+                            "size": 700
+                        },
+                        {
+                            "name": "Packer",
+                            "size": 700
+                        },
+                        {
+                            "name": "Kitchen",
+                            "size": 700
+                        },
+                        {
+                            "name": "Lead Vault",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "CaaS",
+                    "children": [
+                        {
+                            "name": "EKS",
+                            "size": 700
+                        },
+                        {
+                            "name": "Vault",
+                            "size": 700
+                        },
+                        {
+                            "name": "Traefik",
+                            "size": 700
+                        },
+                        {
+                            "name": "Log Stack",
+                            "size": 700
+                        },
+                        {
+                            "name": "Warapps Pipeline",
+                            "size": 700
+                        },
+                        {
+                            "name": "CaaS Image Library",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Software Development Tools",
+                    "children": [
+                        {
+                            "name": "Artifactory",
+                            "size": 700
+                        },
+                        {
+                            "name": "SonarQube",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "EPO",
+                    "children": [
+                        {
+                            "name": "Barracuda",
+                            "size": 700
+                        },
+                        {
+                            "name": "SMTP Relay",
+                            "size": 700
+                        },
+                        {
+                            "name": "Proofpoint",
+                            "size": 700
+                        },
+                        {
+                            "name": "LDAP MTA",
+                            "size": 700
+                        },
+                        {
+                            "name": "Listserv",
+                            "size": 700
+                        },
+                        {
+                            "name": "ASU Exchange Tools",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Enterprise Web PaaS",
+                    "children": [
+                        {
+                            "name": "Virtual Hosting Edge",
+                            "size": 700
+                        },
+                        {
+                            "name": "WWW Farm",
+                            "size": 700
+                        },
+                        {
+                            "name": "WWW NA",
+                            "size": 700
+                        },
+                        {
+                            "name": "WWW Public",
+                            "size": 700
+                        },
+                        {
+                            "name": "Tomcat",
+                            "size": 700
+                        },
+                        {
+                            "name": ".NET",
+                            "size": 700
+                        },
+                        {
+                            "name": "Drupal",
+                            "size": 700
+                        },
+                        {
+                            "name": "Mulesoft ESB",
+                            "size": 700
+                        },
+                        {
+                            "name": "Cloudflare",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Enterprise Database Platform",
+                    "children": [
+                        {
+                            "name": "Database Customer Sandbox",
+                            "size": 700
+                        },
+                        {
+                            "name": "Consolidated MSSQL",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Workload Automation",
+                    "children": [
+                        {
+                            "name": "Control-M",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "ENterprise Performance Testing",
+                    "children": [
+                        {
+                            "name": "PS Load Testing Cluster",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Firewall Management",
+                    "children": [
+                        {
+                            "name": "Checkpoint",
+                            "size": 700
+                        },
+                        {
+                            "name": "Illumio",
+                            "size": 700
+                        },
+                        {
+                            "name": "SSLVPN",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "DNS",
+                    "children": [
+                        {
+                            "name": "Infoblox",
+                            "size": 700
+                        },
+                        {
+                            "name": "OpenDNS",
+                            "size": 700
+                        },
+                        {
+                            "name": "Route53",
+                            "size": 700
+                        },
+                        {
+                            "name": "Akamai",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "NLB",
+                    "children": [
+                        {
+                            "name": "Netscaler",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Storage",
+                    "children": [
+                        {
+                            "name": "AFS",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Managed Hosting",
+                    "children": [
+                        {
+                            "name": "ETX Hosting",
+                            "size": 700
+                        },
+                        {
+                            "name": "Library Hosting",
+                            "size": 700
+                        },
+                        {
+                            "name": "KED Hosting",
+                            "size": 700
+                        },
+                        {
+                            "name": "Sandbox Account Orchestration",
+                            "size": 700
+                        },
+                        {
+                            "name": "AZ Transfer",
+                            "size": 700
+                        },
+                        {
+                            "name": "BFIT Hosting",
+                            "size": 700
+                        },
+                        {
+                            "name": "SDO Law Hosting",
+                            "size": 700
+                        },
+                        {
+                            "name": "FSE Hosting",
+                            "size": 700
+                        },
+                        {
+                            "name": "SFIS Hosting",
+                            "size": 700
+                        },
+                        {
+                            "name": "Lizard Tracker",
+                            "size": 700
+                        },
+                        {
+                            "name": "Thunderbird Hosting",
+                            "size": 700
+                        },
+                        {
+                            "name": "Simphony POS System",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Windows Application Hosting Platform",
+                    "children": [
+                        {
+                            "name": "WAHP Pipeline Builder",
+                            "size": 700
+                        },
+                        {
+                            "name": "WAHP Ops Prod Platform",
+                            "size": 700
+                        },
+                        {
+                            "name": "WAHP Shared Services Platform",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Data Protection",
+                    "children": [
+                        {
+                            "name": "Rubrik",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Print Services",
+                    "children": [
+                        {
+                            "name": "Pharos",
+                            "size": 700
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Service Management",
+            "children": [
+                {
+                    "name": "ServiceNow",
+                    "children": [
+                        {
+                            "name": "ServiceNow MID",
+                            "size": 700
+                        },
+                        {
+                            "name": "ServiceNow CMDB",
+                            "size": 700
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Identity and Access Management",
+            "children": [
+                {
+                    "name": "EDNA",
+                    "children": [
+                        {
+                            "name": "EDNA Server",
+                            "size": 700
+                        },
+                        {
+                            "name": "EDNA Tools",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "SSO",
+                    "children": [
+                        {
+                            "name": "Webauth",
+                            "size": 700
+                        },
+                        {
+                            "name": "CAS",
+                            "size": 700
+                        },
+                        {
+                            "name": "Shibboleth",
+                            "size": 700
+                        },
+                        {
+                            "name": "ADFS for AD",
+                            "size": 700
+                        },
+                        {
+                            "name": "ADFS for HIPAA",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Authentication",
+                    "children": [
+                        {
+                            "name": "Kerberos",
+                            "size": 700
+                        },
+                        {
+                            "name": "RADIUS",
+                            "size": 700
+                        },
+                        {
+                            "name": "Duo",
+                            "size": 700
+                        },
+                        {
+                            "name": "ServiceAuth",
+                            "size": 700
+                        },
+                        {
+                            "name": "Ops Vault",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Certificate Management",
+                    "children": [
+                        {
+                            "name": "SSL Certificates",
+                            "size": 700
+                        },
+                        {
+                            "name": "Windows PKI",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Directory Services",
+                    "children": [
+                        {
+                            "name": "LDAP DS",
+                            "size": 700
+                        },
+                        {
+                            "name": "LDAP Authz",
+                            "size": 700
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Business Intelligence",
+            "children": [
+                {
+                    "name": "Data Management",
+                    "children": [
+                        {
+                            "name": "Collibra Data Governance",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Enterprise Data Warehouse",
+                    "children": [
+                        {
+                            "name": "Redshift Data Warehouse",
+                            "size": 700
+                        },
+                        {
+                            "name": "Operational Data Store",
+                            "size": 700
+                        },
+                        {
+                            "name": "Legacy Data Warehouse",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Enterprise Data Lake",
+                    "children": [
+                        {
+                            "name": "S3 Data Lake",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Enterprise Data Analytics",
+                    "children": [
+                        {
+                            "name": "BI Workspaces",
+                            "size": 700
+                        },
+                        {
+                            "name": "BI Appstream",
+                            "size": 700
+                        },
+                        {
+                            "name": "Data Virtualization Platform",
+                            "size": 700
+                        },
+                        {
+                            "name": "Analystics User Databases",
+                            "size": 700
+                        },
+                        {
+                            "name": "Analytics Alteryx Platform",
+                            "size": 700
+                        },
+                        {
+                            "name": "Analytics Portal",
+                            "size": 700
+                        },
+                        {
+                            "name": "Analytics SSRS",
+                            "size": 700
+                        },
+                        {
+                            "name": "Tableau",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "ETL",
+                    "children": [
+                        {
+                            "name": "Datastage",
+                            "size": 700
+                        },
+                        {
+                            "name": "Matillion ETL for Redshift",
+                            "size": 700
+                        },
+                        {
+                            "name": "BI ETL Utility Server",
+                            "size": 700
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Security and Policy Compliance",
+            "children": [
+                {
+                    "name": "Compliance Toolset",
+                    "children": [
+                        {
+                            "name": "CloudCheckr",
+                            "size": 700
+                        },
+                        {
+                            "name": "Qualys",
+                            "size": 700
+                        },
+                        {
+                            "name": "Twistlock",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Endpoint Protection",
+                    "children": [
+                        {
+                            "name": "CrowdStrike Falcon EPP",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Standards and Controls",
+                    "children": [
+                        {
+                            "name": "Security and Policy Compliance Rubric",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Risk Reporting",
+                    "children": [
+                        {
+                            "name": "Executive IT Risk Review Dashboard",
+                            "size": 700
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Customer Applications",
+            "children": [
+                {
+                    "name": "Media Hosting",
+                    "children": [
+                        {
+                            "name": "Echo 360",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "eAdvisor",
+                    "children": [
+                        {
+                            "name": "DARS-uAchieve",
+                            "size": 700
+                        },
+                        {
+                            "name": "Class Search",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "My ASU Platform",
+                    "children": [
+                        {
+                            "name": "My ASU",
+                            "size": 700
+                        },
+                        {
+                            "name": "Narrowcasting",
+                            "size": 700
+                        },
+                        {
+                            "name": "Data Potluck",
+                            "size": 700
+                        },
+                        {
+                            "name": "Docket",
+                            "size": 700
+                        },
+                        {
+                            "name": "Cohort Rules Engine",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Mobility",
+                    "children": [
+                        {
+                            "name": "ASU Mobile App Sidecar",
+                            "size": 700
+                        },
+                        {
+                            "name": "ASU Mobile App",
+                            "size": 700
+                        },
+                        {
+                            "name": "KED Mobile App",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "DLT",
+                    "children": [
+                        {
+                            "name": "Blockchain DL Sandbox",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "LMS",
+                    "children": [
+                        {
+                            "name": "Canvas Integrations",
+                            "size": 700
+                        },
+                        {
+                            "name": "Caliper Event Store",
+                            "size": 700
+                        },
+                        {
+                            "name": "Blackboard Archive",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Customer Productivity Tools",
+                    "children": [
+                        {
+                            "name": "GitHub Enterprise",
+                            "size": 700
+                        },
+                        {
+                            "name": "Slack Enterprise Grid",
+                            "size": 700
+                        },
+                        {
+                            "name": "Zoom Enterprise",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Customer Support Tools",
+                    "children": [
+                        {
+                            "name": "Bomgar",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Customer Virtual Desktop",
+                    "children": [
+                        {
+                            "name": "Citrix StudentApps in AWS",
+                            "size": 700
+                        },
+                        {
+                            "name": "Citrix AdminApps in AWS",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Voice Integrations",
+                    "children": [
+                        {
+                            "name": "Polycom Integration",
+                            "size": 700
+                        },
+                        {
+                            "name": "Voice API Platform",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Faculty Portfolios",
+                    "children": [
+                        {
+                            "name": "Faculty Search",
+                            "size": 700
+                        },
+                        {
+                            "name": "FAC180",
+                            "size": 700
+                        },
+                        {
+                            "name": "Review, Promotion, Tenure",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Departmental Web",
+                    "children": [
+                        {
+                            "name": "UTO Web",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Interactive Linux Systems",
+                    "children": [
+                        {
+                            "name": "General Cluster",
+                            "size": 700
+                        },
+                        {
+                            "name": "Stats Cluster",
+                            "size": 700
+                        },
+                        {
+                            "name": "Medusa Cluster",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Document Management Services",
+                    "children": [
+                        {
+                            "name": "Hyland",
+                            "size": 700
+                        },
+                        {
+                            "name": "WorkSite",
+                            "size": 700
+                        },
+                        {
+                            "name": "DocuWare",
+                            "size": 700
+                        },
+                        {
+                            "name": "Captiva",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Software Distribution",
+                    "children": [
+                        {
+                            "name": "MyApps",
+                            "size": 700
                         }
                     ]
                 }
