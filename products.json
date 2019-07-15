@@ -1,0 +1,76 @@
+{
+    "name": "Products",
+    "children": [
+        {
+            "name": "Data Center Platforms and Services",
+            "children": [
+                {
+                    "name": "Cloud Engineering",
+                    "children": [
+                        {
+                            "name": "AWS Data Center",
+                            "size": 700
+                        },
+                        {
+                            "name": "AWS Data Center Networks",
+                            "size": 700
+                        },
+                        {
+                            "name": "Resource Tagging Standard",
+                            "size": 700
+                        },
+                        {
+                            "name": "Linux Server Standards",
+                            "size": 700
+                        },
+                        {
+                            "name": "Windows Server Standards",
+                            "size": 700
+                        }
+                    ]
+                },
+                {
+                    "name": "Monitoring and Management",
+                    "children": [
+                        {
+                            "name": "AWS Management Plane",
+                            "size": 3534
+                        },
+                        {
+                            "name": "Satellite",
+                            "size": 3534
+                        },
+                        {
+                            "name": "Datadog",
+                            "size": 3534
+                        },
+                        {
+                            "name": "Splunk",
+                            "size": 3534
+                        },
+                        {
+                            "name": "SolarWinds",
+                            "size": 3534
+                        },
+                        {
+                            "name": "New Relic",
+                            "size": 3534
+                        },
+                        {
+                            "name": "Turbonomic SaaS",
+                            "size": 3534
+                        },
+                        {
+                            "name": "AWS Org Cloudtrail",
+                            "size": 3534
+                        },
+                        {
+                            "name": "Enterprise SCCM",
+                            "size": 5416
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
